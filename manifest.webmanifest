@@ -1,9 +1,0 @@
-{
-  "name": "Cup",
-  "short_name": "Cup",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#0e0f12",
-  "theme_color": "#111216",
-  "description": "Private on-device bra-fit measurement assistant"
-}
